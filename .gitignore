@@ -1,0 +1,9 @@
+*.exe
+*.obj
+*.o
+*.dll
+.vscode/
+*.user
+*.log
+students.txt
+students.csv
