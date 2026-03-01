@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "cppvsdbg",
+      "request": "launch",
+      "name": "Debug student_management.cpp",
+      "program": "${workspaceFolder}/student_management.exe",
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "build and run C++",
+      "stopAtEntry": true
+    }
+  ]
+}
