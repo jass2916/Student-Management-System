@@ -33,3 +33,7 @@ The system automatically tracks the following subjects per degree:
 | B.Tech | Data Structures, Algorithms, Computer Networks |
 | BSc | Physics, Chemistry, Biology |
 | BCom | Accounting, Economics, Business Studies |
+
+# Username & Password
+Username: admin
+Password: 1234
